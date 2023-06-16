@@ -1,0 +1,13 @@
+export const CREATE_USER = 'CREATE_USER';
+export const LIST_USERS = 'LIST_USERS';
+export const SEARCH_USERS = 'SEARCH_USERS';
+export const DELETE_USER = 'DELETE_USER';
+export const EDIT_USER = 'EDIT_USER';
+export const UPDATE_USER = 'UPDATE_USER';
+
+export const CREATE_EMPLOYEE = 'CREATE_EMPLOYEE';
+export const LIST_EMPLOYEES = 'LIST_EMPLOYEES';
+//export const SEARCH_USERS = 'SEARCH_USERS';
+export const DELETE_EMPLOYEE = 'DELETE_EMPLOYEE';
+export const EDIT_EMPLOYEE = 'EDIT_EMPLOYEE';
+export const UPDATE_EMPLOYEE = 'UPDATE_EMPLOYEE';
